@@ -24,6 +24,7 @@ An online coding quiz from TripleByte can land you job offers from top tech comp
 | [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)        | 8,000          |            | Designers, Developers, & Others           |
 | [Guru.com](http://www.guru.com/)                                                         | 10,000         |            | Designers, Developers, & Others           |
 | [CodeMentor.io](https://www.codementor.io/i/2kz84aesbl)                                  | 10,000         | & Tutoring | Developers                                |
+| [pimentaGROUP](https://www.pimentagroup.de/jobs)                                         | 50,000         |            |  Developers, Software Engineers, Scrum masters & Project Mangers
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
 | [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
@@ -81,6 +82,9 @@ An online coding quiz from TripleByte can land you job offers from top tech comp
 
 - [Freelance.nl](https://freelance.nl/) - Leader in the Netherlands.
 - [Marktplaats](http://klussen.marktplaats.nl/diensten-en-vakmensen/klussen/0) - Kind of like Craigslist.
+
+**German**
+- [pimentaGROUP](https://www.pimentagroup.de/jobs) - pimentaRECRUITING Europe freelancer network.
 
 **Spanish**
 - [Freelancer MX](https://www.freelancer.mx) - Contrata a freelancers expertos para tu trabajo en l?nea.
